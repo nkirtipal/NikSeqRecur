@@ -180,7 +180,7 @@ Included outputs:
 | After duplicate filtering           | 17 |
 | Synonymous mutation annotations     | Detected |
 | Nonsynonymous mutation annotations  | Detected |
-| Potential stop-loss annotations     | Detected |
+| stop-loss annotations               | Detected |
 | Reverse-complement recurrences      | Detected |
 
 ---
