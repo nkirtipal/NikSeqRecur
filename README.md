@@ -78,14 +78,11 @@ Main dependencies:
 
 ## Running NikSeqRecur
 
-Open:
+Run:
 
-```text
-NikSeqRecur.ipynb
+```bash
+python nikseqrecur.py
 ```
-
-and run the notebook cells sequentially.
-
 ---
 
 ## Output Types
