@@ -254,10 +254,3 @@ Nikhil K Kirtipal
 
 GitHub:
 https://github.com/nkirtipal
-
-## Author
-
-Nikhil K Kirtipal
-
-GitHub:
-https://github.com/nkirtipal
