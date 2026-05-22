@@ -106,7 +106,7 @@ NikSeqRecur was developed as a flexible framework for recurrence-aware DNA seque
 
 ## Author
 
-Nikhil Kirtipal
+Nikhil K Kirtipal
 
 GitHub:
 https://github.com/nkirtipal
