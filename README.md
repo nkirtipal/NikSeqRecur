@@ -172,6 +172,17 @@ Included outputs:
 - CSV exports
 - BED genomic interval exports
 
+## Example Results (SARS-CoV-2 Spike Gene, 1000 bp)
+
+| Metric | Value |
+|---|---|
+| Raw recurrences detected            | 457 |
+| After duplicate filtering           | 17 |
+| Synonymous mutation annotations     | Detected |
+| Nonsynonymous mutation annotations  | Detected |
+| Potential stop-loss annotations     | Detected |
+| Reverse-complement recurrences      | Detected |
+
 ---
 
 ## Installation
