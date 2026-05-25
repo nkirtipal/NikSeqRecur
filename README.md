@@ -1,5 +1,9 @@
 # NikSeqRecur
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 NikSeqRecur is a recurrence-aware DNA sequence analysis framework designed for detecting approximate repeats, reverse-complement recurrences, and biologically meaningful mutation patterns in nucleotide sequences.
 
 ---
